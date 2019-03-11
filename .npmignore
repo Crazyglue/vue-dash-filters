@@ -1,0 +1,17 @@
+.idea
+.vscode
+.DS_STORE
+.gitignore
+.npmignore
+.babelrc
+
+node_modules/
+build/
+demo/
+
+.eslintrc
+index.html
+Jenkinsfile
+.editorconfig
+.eslintrc.js
+.eslintignore
